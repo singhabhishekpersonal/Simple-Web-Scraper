@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://tractorgyan.com/tractor/swaraj-744-fe/141",
+    "brand": "Swaraj 744 FE",
+    "model": "Swaraj 744 FE",
+    "price": "scraped value contains an encoding-dependent rupee glyph",
+    "specifications": {},
+    "description": "BackTractor Gyan Home/Tractor Brands/Swaraj Tractors/Swaraj 744 FE",
+    "image_urls": [
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/125838/6a2799fdeba17-PWU.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=96,quality=75,format=auto,fit=contain/uploads/117378/6780c8944bc34-topbrand.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/109731/653b884aa08ce-MASSEY-09_small.webp"
+    ],
+    "local_image_paths": []
+  },
+  {
+    "url": "https://tractorgyan.com/tractor/new-holland-3630-tx-super-plus-4wd/1283",
+    "brand": "New holland 3630 TX Super Plus 4WD",
+    "model": "New holland 3630 TX Super Plus 4WD",
+    "price": "scraped value contains an encoding-dependent rupee glyph",
+    "specifications": {},
+    "description": "BackTractor Gyan Home/Tractor Brands/New holland Tractors/New holland 3630 TX Super Plus 4WD",
+    "image_urls": [
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/125838/6a2799fdeba17-PWU.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=96,quality=75,format=auto,fit=contain/uploads/117378/6780c8944bc34-topbrand.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/109731/653b884aa08ce-MASSEY-09_small.webp"
+    ],
+    "local_image_paths": []
+  },
+  {
+    "url": "https://tractorgyan.com/tractor/farmtrac-45-promaxx-4wd/1346",
+    "brand": "Farmtrac 45 Promaxx 4WD",
+    "model": "Farmtrac 45 Promaxx 4WD",
+    "price": "scraped value contains an encoding-dependent rupee glyph",
+    "specifications": {},
+    "description": "BackTractor Gyan Home/Tractor Brands/Farmtrac Tractors/Farmtrac 45 Promaxx 4WD",
+    "image_urls": [
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/125838/6a2799fdeba17-PWU.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=96,quality=75,format=auto,fit=contain/uploads/117378/6780c8944bc34-topbrand.webp",
+      "https://images.tractorgyan.com/cdn-cgi/image/width=256,quality=75,format=auto,fit=contain/uploads/109731/653b884aa08ce-MASSEY-09_small.webp"
+    ],
+    "local_image_paths": []
+  }
+]

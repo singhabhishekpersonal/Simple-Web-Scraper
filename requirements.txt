@@ -1,0 +1,7 @@
+# Core HTTP + HTML parsing
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Optional: standard library only beyond this point.
+# (json, re, os, time, hashlib, pathlib, urllib.parse are all stdlib)

@@ -1,0 +1,11 @@
+# Normalize line endings so the repo behaves identically on Windows and Linux
+* text=auto eol=lf
+
+*.py   text diff=python
+*.json text
+*.md   text
+*.txt  text
+
+*.png  binary
+*.jpg  binary
+*.webp binary

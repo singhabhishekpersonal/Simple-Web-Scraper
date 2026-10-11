@@ -1,0 +1,39 @@
+# ---- scraped output (regenerate with: python scraper.py) ----
+data/tractors.json
+tractor_images/
+tractor_images_test/
+data_test/
+output.txt
+output.log
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- virtual environments ----
+.venv/
+venv/
+env/
+
+# ---- logs ----
+*.log
+
+# ---- notebooks / editors / OS ----
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- secrets ----
+.env
+.env.*
+*.pem
